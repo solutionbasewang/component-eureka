@@ -43,4 +43,7 @@
             <artifactId>spring-cloud-starter-eureka-server</artifactId>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>component-datacompare</finalName>
+    </build>
 </project>
