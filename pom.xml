@@ -44,6 +44,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>component-datacompare</finalName>
+        <finalName>component-eureka</finalName>
     </build>
 </project>
